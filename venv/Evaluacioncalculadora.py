@@ -76,9 +76,9 @@ while True:
         elif choice == '9':
             print("La tangente es", Tangente(num3))
         elif choice == '10':
-            print("La calculadora se cerrará", Close())
+            print("Saldrá de la calculadora", Close())
         else:
-            print("Su seleccion no es valida")
+            print("Seleccione una opción del Menú")
             break
 
 
